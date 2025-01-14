@@ -6,3 +6,10 @@ public class TestClass
     public string testVariable2 { get; set; } = "B";
 
 }
+
+public class OneTwoClass
+{
+    public string testVariable { get; set; } = "A";
+    public string testVariable2 { get; set; } = "B";
+
+}
