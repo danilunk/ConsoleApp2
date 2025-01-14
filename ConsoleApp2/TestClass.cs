@@ -10,4 +10,9 @@ public class TestClass
         this.testVariable = testVariable;
         this.testVariable2 = testVariable2;
     }
+    
+    TestClass(string testNumber)
+    {
+        
+    }
 }
