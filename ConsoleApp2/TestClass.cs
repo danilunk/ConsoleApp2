@@ -15,4 +15,9 @@ public class TestClass
     {
         
     }
+    
+    TestClass(int testNumber, string testVariable)
+    {
+        //
+    }
 }
