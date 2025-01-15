@@ -13,3 +13,13 @@ public class OneTwoClass
     public string testVariable2 { get; set; } = "B";
 
 }
+
+public class OneTwoThree
+{
+    public string testVariable { get; set; } = "A";
+    public string testVariable2 { get; set; } = "B";
+
+}
+
+
+//11
